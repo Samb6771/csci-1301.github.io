@@ -107,6 +107,15 @@ Clément Aubert:
         - Tuesday 2:00pm–3:00pm in my office and on teams.
      - I have been teaching this class for many semesters, but I am always excited to meet new students and introduce you all to programming. 
 
+Samuel Bailey
+~ 
+    - <sambailey@augusta.edu>
+    - Responsible for Section C's lab.
+    - Also present during Section A and D's lab.
+    - The best way to contact me is through my email or my [Discord](https://discord.com/users/233045391325528064). I check both actively and will do my best to respond quickly. I use teams very rarely. Therefore I prefer that you reach out via [Discord](https://discord.com/users/233045391325528064) or Email.
+    - Currently Undecided. I am finalizing other schedule stuff before putting any office hours in stone.
+    - I am an IT Major. I enjoy video games, reading books such as Brandon Sanders Mistborn Series, and running Pathfinder (2E) in my spare time.
+
 ## Commenting Using a Github Account
 
 On this website, if [you look below](#how-is-this-page), you will see a box where you can comment.
