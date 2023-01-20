@@ -115,6 +115,15 @@ Clément Aubert:
         - Tuesday 2:00pm–3:00pm in my office and on teams.
      - I have been teaching this class for many semesters, but I am always excited to meet new students and introduce you all to programming. 
      
+Samuel Bailey
+     ~ 
+    - <sambailey@Augusta.edu>
+    - Responsible for Section C's lab.
+    - Also present during Section A and D's labs.
+    - The best way to reach me is at my Discord 
+    - My office hours are M. & W. 10--12.
+    - I have been teaching this class for many semesters, but I am always excited to meet new students and introduce you all to programming.
+     
 ## Labs Meeting Times
 
 All labs take place in Allgood Hall N344, and meet as follows:
