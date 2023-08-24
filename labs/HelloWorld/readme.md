@@ -107,7 +107,7 @@ Make sure to always upload your files before logging out of the computer.
 After selecting where you want to store your backup files
 
 #. Create a folder for this class (`CSCI1301`)
-#. Create subfolder for the `HelloWorld` lab. Put all of the files related to the "HelloWorld" solution in this folder.
+#. Create subfolder for the `HelloWorld` lab. Copy all of the files related to the "HelloWorld" solution in this folder.
 #. Explore your backup. Check that you have multiple folders. Specifically check that your backup contains at least the following files:
 
     - `HelloWorld_Solution.sln` - this is called a solution file. It tells the IDE how to load your C# source code in the IDE.
